@@ -545,9 +545,3 @@ opacity: .8
     padding-left: .8em;
 }
 /* #endregion */
-
-@midia screen and (max-width: 768px){
-     produto-container{
-        width:100%;
-        flex-direction: column;
-}
