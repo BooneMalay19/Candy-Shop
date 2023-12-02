@@ -71,8 +71,7 @@ h2 {
 
     font-size: var(--subtitle-default);
     color: var(--color-secondary);
-    -webkit-text-stroke: 1px black;
-
+   
 }
 
  
